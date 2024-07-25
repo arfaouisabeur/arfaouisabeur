@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/saber arfaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saber arfaoui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saber-arfaoui-9a5465253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saber-arfaoui-9a5465253" height="30" width="40" /></a>
 <a href="https://instagram.com/sabeur_arfaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabeur_arfaoui" height="30" width="40" /></a>
 </p>
 

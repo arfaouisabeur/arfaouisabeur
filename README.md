@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saber Arfaoui</h1>
-<h3 align="center">I'm a dedicated frontend and backend developer from Tunisia, with a strong passion for crafting seamless and efficient web applications. My expertise spans across both client-side and server-side technologies, allowing me to build comprehensive solutions that are not only visually appealing but also highly functional. I thrive on solving complex problems and continuously enhancing my skills to stay ahead in the ever-evolving field of web development.</h3>
+<h3 align="center">I'm a dedicated frontend and backend developer from Tunisia, with a strong passion for crafting seamless and efficient web applications .</h3>
 
 <img align="right" alt="Coding" width="400" src="./giti.gif">
 
